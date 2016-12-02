@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
+#EXTVLCOPT:user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3
 #EXTINF:-1,SIMPSONS 24/7
 http://167.114.102.27/live/OIgOgt3e-uEGk1s8h_YBGg/1479364240/3691308f2a4c2f6983f2880d32e29c84.m3u8
 
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
+#EXTVLCOPT:user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3
 #EXTINF:-1,ADVENTURE TIME 24/7
 http://167.114.102.27/live/bGSJbx6WwiCwFu-iDQt2Jg/1479364930/7d0db380a5b95a8ba1da0bca241abda1.m3u8
 
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
+#EXTVLCOPT:user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3
 #EXTINF:-1,AMERICAN DAD 24/7
 http://167.114.102.27/live/G0RVJ6O0c_wpTk5vhvZFiQ/1479365020/523af537946b79c4f8369ed39ba78605.m3u8
 
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
+#EXTVLCOPT:user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3
 #EXTINF:-1,BOBS BURGERS 24/7
 http://167.114.102.27/live/BPtyziOnWepr94B4rl9dJA/1479365073/21ad0bd836b90d08f4cf640b4c298e7c.m3u8
 
