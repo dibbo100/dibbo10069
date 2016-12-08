@@ -1,76 +1,63 @@
 #EXTM3U
-#EXTVLCOPT:user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3
-#EXTINF:-1,SIMPSONS 24/7
-http://167.114.102.27/live/OIgOgt3e-uEGk1s8h_YBGg/1479364240/3691308f2a4c2f6983f2880d32e29c84.m3u8
-
-#EXTVLCOPT:user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3
-#EXTINF:-1,ADVENTURE TIME 24/7
-http://167.114.102.27/live/bGSJbx6WwiCwFu-iDQt2Jg/1479364930/7d0db380a5b95a8ba1da0bca241abda1.m3u8
-
-#EXTVLCOPT:user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3
-#EXTINF:-1,AMERICAN DAD 24/7
-http://167.114.102.27/live/G0RVJ6O0c_wpTk5vhvZFiQ/1479365020/523af537946b79c4f8369ed39ba78605.m3u8
-
-#EXTVLCOPT:user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 1812 Mobile Safari/533.3
-#EXTINF:-1,BOBS BURGERS 24/7
-http://167.114.102.27/live/BPtyziOnWepr94B4rl9dJA/1479365073/21ad0bd836b90d08f4cf640b4c298e7c.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,FAMILY GUY 24/7
-http://167.114.102.27/live/bMNlt22vx7yuKvimV6L6wg/1479365124/3d4044d65abdda407a92991f1300ec97.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,FRESH PRINCE OF BELLAIR 24/7
-http://167.114.102.27/live/Lr0uap3YBaQwWFOXqz8baA/1479365195/0666f0acdeed38d4cd9084ade1739498.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,FRIENDS 24/7
-http://167.114.102.27/live/uq90TIxEYZoBrkpQ481dbA/1479365283/28f20a02bf8a021fab4fcec48afb584e.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,FUTURAMA 24/7
-http://167.114.102.27/live/awzlYlYDgbJbiNlDL-XA0A/1479383344/89e6d2b383471fc370d828e552c19e65.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,INVADER ZIM 24/7
-http://167.114.102.27/live/Vj_8Dt0eQKigEZmaiUbFPg/1479365417/018d4d19ee6a779b041a625a60df0e2c.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,KING OF THE HILL 24/7
-http://167.114.102.27/live/TUFw18ZpdEatuqA22bbRGQ/1479365467/fa46ec0b4924e8c2194a53ef61b94039.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,REGULAR SHOW 24/7
-http://167.114.102.27/live/Vgmd9TPb_GVN48e5Ea-YPg/1479365523/af37d08ae228a87dc6b265fd1019c97d.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,REN AND STIMPY 24/7
-http://167.114.102.27/live/hmJrcgvSO9epLqgPSxyQ8w/1479365578/3a2d7564baee79182ebc7b65084aabd1.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,RICK AND MORTY 24/7
-http://167.114.102.27/live/mUK6pu2DhFSFfkUbRIR9hA/1479365645/d67f249b90615ca158b1258712c3a9fc.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,SCRUBS 24/7
-http://167.114.102.27/live/oJVCKKcsXA9-IxGxiCpA4Q/1479365725/456727ac6d97e749f87ec95009617bd2.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,SEINFELD 24/7
-http://167.114.102.27/live/noEiX6XujK4_mLg7E_0Czw/1479365773/af1f8d9839dd6ffefedebab89761ee7e.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,SOUTHPARK 24/7
-http://167.114.102.27/live/cK7fG7THCbu_BB1xnt7iHA/1479365838/1952a01898073d1e561b9b4f2e42cbd7.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,BIG BANG THEORY 24/7
-http://167.114.102.27/live/ztrE3VsZ7a5I3Fn0yPErLg/1479365880/d3517d7d92455b3cf3eb3e774acb4406.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,THE OFFICE 24/7
-http://167.114.102.27/live/NCZLdrlWx_XTVhpIRcNDtA/1479365932/e72f4545eb68c96c754f91fc01573517.m3u8
-
-#EXTVLCOPT:user-agent=Xtream-Codes IPTV Panel Pro
-#EXTINF:-1,THE 70'S 24/7
-http://167.114.102.27/live/og_V5EDMz5gov--oL-pltg/1479366011/10174e112d64ae5e09f8f955865a5993.m3u8
+#EXTINF:-1,VIDEO XXX 2
+http://porn720.net/video/157/720p.mp4
+#EXTINF:-1,VIDEO XXX 3
+http://porn720.net/video/138/720p.mp4
+#EXTINF:-1,VIDEO XXX 4
+http://porn720.net/video/110/720p.mp4
+#EXTINF:-1,VIDEO XXX 5
+http://porn720.net/video/119/720p.mp4
+#EXTINF:-1,VIDEO XXX 6
+http://porn720.net/video/710/720p.mp4
+#EXTINF:-1,VIDEO XXX 7
+http://porn720.net/video/720/720p.mp4
+#EXTINF:-1,VIDEO XXX 8
+http://porn720.net/video/173/720p.mp4
+#EXTINF:-1,VIDEO XXX 9
+http://porn720.net/video/730/720p.mp4
+#EXTINF:-1,VIDEO XXX 10
+http://porn720.net/video/146/720p.mp4
+#EXTINF:-1,VIDEO XXX 11
+http://porn720.net/video/207/720p.mp4
+#EXTINF:-1,VIDEO XXX 12
+http://porn720.net/video/372/720p.mp4
+#EXTINF:-1,VIDEO XXX 13
+http://porn720.net/video/352/720p.mp4
+#EXTINF:-1,VIDEO XXX 14
+http://porn720.net/video/200/720p.mp4
+#EXTINF:-1,VIDEO XXX 15
+http://porn720.net/video/458/720p.mp4
+#EXTINF:-1,VIDEO XXX 16
+http://porn720.net/video/491/720p.mp4
+#EXTINF:-1,VIDEO XXX 17
+http://porn720.net/video/497/720p.mp4
+#EXTINF:-1,VIDEO XXX 18
+http://porn720.net/video/445/720p.mp4
+#EXTINF:-1,VIDEO XXX 19
+http://porn720.net/video/850/720p.mp4
+#EXTINF:-1,VIDEO XXX 20
+http://porn720.net/video/777/720p.mp4
+#EXTINF:-1,VIDEO XXX 21
+http://porn720.net/video/116/720p.mp4
+#EXTINF:-1,VIDEO XXX 22
+http://porn720.net/video/385/720p.mp4
+#EXTINF:-1,VIDEO XXX 23
+http://porn720.net/video/289/720p.mp4
+#EXTINF:-1,VIDEO XXX 24
+http://porn720.net/video/1190/720p.mp4
+#EXTINF:-1,VIDEO XXX 25
+http://porn720.net/video/1291/720p.mp4
+#EXTINF:-1,VIDEO XXX 26
+http://porn720.net/video/1157/720p.mp4
+#EXTINF:-1,VIDEO XXX 27
+http://porn720.net/video/1130/720p.mp4
+#EXTINF:-1,VIDEO XXX 28
+http://porn720.net/video/1290/720p.mp4
+#EXTINF:-1,VIDEO XXX 29
+http://porn720.net/video/1205/720p.mp4
+#EXTINF:-1,VIDEO XXX 30
+http://porn720.net/video/1520/720p.mp4
+#EXTINF:-1,VIDEO XXX 31
+http://porn720.net/video/1584/720p.mp4
+#EXTINF:-1,VIDEO XXX 32
+http://porn720.net/video/1690/720p.mp4
