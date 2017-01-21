@@ -1,0 +1,4591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <channel id="BBC1 London">
+    <display-name lang="en">BBC One</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BBC2 London">
+    <display-name lang="en">BBC Two</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BBC4">
+    <display-name lang="en">BBC FOUR</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BBC1 HD N Ireland">
+    <display-name lang="en">BBC1 NI</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BBC1 HD Scotland">
+    <display-name lang="en">BBC1 Scotland</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="London Live">
+    <display-name lang="en">London Live</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="ITVBe">
+    <display-name lang="en">ITVBe</display-name>
+    <url>http://www.filmon.com</url>
+  </channel>
+  <channel id="ITV Encore">
+    <display-name lang="en">ITV Encore</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="ITV London">
+    <display-name lang="en">ITV1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="ITV2">
+    <display-name lang="en">ITV2</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="ITV3">
+    <display-name lang="en">ITV3</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="ITV4">
+    <display-name lang="en">ITV4</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="ITV1 +1">
+    <display-name lang="en">ITV1 +1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="ITV2 +1">
+    <display-name lang="en">ITV2 +1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="ITV3 +1">
+    <display-name lang="en">ITV3 +1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="ITV4 +1">
+    <display-name lang="en">ITV4 +1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Channel 4">
+    <display-name lang="en">Channel 4</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="4seven">
+    <display-name lang="en">4seven</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="E4">
+    <display-name lang="en">E4</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="4Music">
+    <display-name lang="en">4Music</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="More4">
+    <display-name lang="en">More4</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Channel 5">
+    <display-name lang="en">Channel 5</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="5*">
+    <display-name lang="en">5 Star</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="5USA">
+    <display-name lang="en">5USA</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="RTE One">
+    <display-name lang="en">RTE One</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="RTE Two">
+    <display-name lang="en">RTE Two</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="en">TV3</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="TG4">
+    <display-name lang="en">TG4</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="UTV">
+    <display-name lang="en">UTV</display-name>
+    <url>http://www.entertainment.ie</url>
+  </channel>
+  <channel id="UTV Ireland">
+    <display-name lang="en">UTV Ireland</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="3e">
+    <display-name lang="en">3e</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Irish TV">
+    <display-name lang="en">Irish TV</display-name>
+    <url>http://www.radiotimes.com</url>
+  </channel>
+  <channel id="Alibi">
+    <display-name lang="en">Alibi</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="GOLD">
+    <display-name lang="en">GOLD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Dave">
+    <display-name lang="en">Dave</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Drama">
+    <display-name lang="en">Drama</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="en">FOX</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="en">AMC UK</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="en">Comedy Central</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="ComedyXtra">
+    <display-name lang="en">ComedyXtra</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky1">
+    <display-name lang="en">Sky1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky2">
+    <display-name lang="en">Sky2</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Atlantic">
+    <display-name lang="en">Sky Atlantic</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Living">
+    <display-name lang="en">Sky Living</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Real Lives">
+    <display-name lang="en">Real Lives</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Spike">
+    <display-name lang="en">Spike UK</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Universal Channel">
+    <display-name lang="en">Universal Channel</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="en">SYFY UK</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Home">
+    <display-name lang="en">Home</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Watch">
+    <display-name lang="en">Watch</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Challenge">
+    <display-name lang="en">Challenge</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="truTV">
+    <display-name lang="en">truTV</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Pick">
+    <display-name lang="en">Pick</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="en">VIVA</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="en">TLC</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="en">E! entertainment</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="CBS Action">
+    <display-name lang="en">CBS Action</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="CBS Drama">
+    <display-name lang="en">CBS Drama</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="CBS Reality">
+    <display-name lang="en">CBS Reality</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="CBS Reality +1">
+    <display-name lang="en">CBS Reality +1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BBC Alba">
+    <display-name lang="en">BBC Alba</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="S4C">
+    <display-name lang="en">S4C</display-name>
+    <url>http://www.radiotimes.com</url>
+  </channel>
+  <channel id="Sky Arts 1">
+    <display-name lang="en">Sky Arts 1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Vintage TV">
+    <display-name lang="en">Vintage TV</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Good Food">
+    <display-name lang="en">Good Food UK</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Food Network">
+    <display-name lang="en">Food Network</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Food Network +1">
+    <display-name lang="en">Food Network +1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Really">
+    <display-name lang="en">Really</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Eden">
+    <display-name lang="en">Eden</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="YESTERDAY">
+    <display-name lang="en">YESTERDAY</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="QUEST">
+    <display-name lang="en">QUEST</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="en">DMAX</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="HISTORY">
+    <display-name lang="en">HISTORY</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="en">H2</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="en">Travel Channel</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Travel Channel +1">
+    <display-name lang="en">Travel Channel +1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="en">Discovery Channel</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Discovery Shed">
+    <display-name lang="en">Discovery Shed</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="en">Discovery Home and Health</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Discovery History">
+    <display-name lang="en">Discovery History</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="en">Discovery Turbo</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="en">Discovery Science</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="en">National Geographic Channel HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="en">Nat Geo Wild</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Investigation Discovery">
+    <display-name lang="en">ID</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="CI">
+    <display-name lang="en">CI</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="RT Documentary">
+    <display-name lang="en">RT Documentary</display-name>
+    <url>http://www.filmon.com</url>
+  </channel>
+  <channel id="Sky Movies Premiere">
+    <display-name lang="en">Sky Movies Premiere</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Showcase">
+    <display-name lang="en">Sky Movies Showcase</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Comedy">
+    <display-name lang="en">Sky Comedy</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Action &amp; Adventure">
+    <display-name lang="en">Sky Movies Action</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Family">
+    <display-name lang="en">Sky Movies Family</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Drama &amp; Romance">
+    <display-name lang="en">Sky Movies Drama</display-name>
+    <url>http://www.radiotimes.com.xmltv</url>
+  </channel>
+  <channel id="Sky Movies Sci-Fi/Horror">
+    <display-name lang="en">Sky Movies Horror</display-name>
+    <url>http://www.entertainment.ie</url>
+  </channel>
+  <channel id="Sky Movies Greats HD">
+    <display-name lang="en">Sky Movies Modern Greats</display-name>
+    <url>http://www.radiotimes.com.xmltv</url>
+  </channel>
+  <channel id="Sky Movies Disney">
+    <display-name lang="en">Sky Movies Disney</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Select">
+    <display-name lang="en">Sky Movies Select</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Crime &amp; Thriller">
+    <display-name lang="en">Sky Movies Thriller</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Film4">
+    <display-name lang="en">Film4</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Movies4Men">
+    <display-name lang="en">Movies4Men</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Movies4Men +1">
+    <display-name lang="en">Movies4Men +1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="en">TCM</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Movies 24">
+    <display-name lang="en">Movies 24</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="True Movies 1">
+    <display-name lang="en">True Movies</display-name>
+    <url>http://www.radiotimes.com.xmltv</url>
+  </channel>
+  <channel id="True Movies 2">
+    <display-name lang="en">True Movies 2</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="True Drama">
+    <display-name lang="en">True Drama</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="TrueEntertainment">
+    <display-name lang="en">True Entertainment</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Horror Channel">
+    <display-name lang="en">Horror Channel</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Greatest Hits TV">
+    <display-name lang="en">Greatest Hits TV</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="en">VH1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="VH1 classic Europe">
+    <display-name lang="en">VH1 classic Europe</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Heart TV">
+    <display-name lang="en">Heart TV</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Flava">
+    <display-name lang="en">Flava</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Scuzz">
+    <display-name lang="en">Scuzz</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Capital TV">
+    <display-name lang="en">Capital TV</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Channel AKA">
+    <display-name lang="en">Channel AKA</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="en">MTV MUSIC</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="MTV CLASSIC">
+    <display-name lang="en">MTV CLASSIC</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV Dance">
+    <display-name lang="en">MTV Dance</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="en">MTV HITS</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="MTV Rocks">
+    <display-name lang="en">MTV Rocks</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="MTV BASE">
+    <display-name lang="en">MTV BASE</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="The Box">
+    <display-name lang="en">The Box</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Smash Hits!">
+    <display-name lang="en">Smash Hits!</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="CBBC">
+    <display-name lang="en">CBBC</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="CBeebies">
+    <display-name lang="en">CBeebies</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="RTÉ Jr">
+    <display-name lang="en">RTE Jr</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="en">Disney Channel</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="en">Disney XD</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="en">Disney Junior</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="en">Boomerang</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="en">Nickelodeon</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Nick Jr">
+    <display-name lang="en">NickJr</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Nick Jr. 2">
+    <display-name lang="en">Nick Jr Two</display-name>
+    <url>http://www.radiotimes.com.xmltv</url>
+  </channel>
+  <channel id="Nicktoons">
+    <display-name lang="en">Nicktoons</display-name>
+    <url>http://www.radiotimes.com</url>
+  </channel>
+  <channel id="Cartoonito">
+    <display-name lang="en">Cartoonito</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="en">Cartoon Network</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BBC News">
+    <display-name lang="en">BBC News</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky News">
+    <display-name lang="en">Sky News</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="RTÉ News Now">
+    <display-name lang="en">RTE News Now</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="EuroNews">
+    <display-name lang="en">EuroNews</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Bloomberg TV">
+    <display-name lang="en">Bloomberg</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Sports 1">
+    <display-name lang="en">Sky Sports 1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Sports 2">
+    <display-name lang="en">Sky Sports 2</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Sports 3">
+    <display-name lang="en">Sky Sports 3</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Sports 4">
+    <display-name lang="en">Sky Sports 4</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Sports 5">
+    <display-name lang="en">Sky Sports 5</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Sports F1">
+    <display-name lang="en">Sky Sports F1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Sports News">
+    <display-name lang="en">Sky Spts News</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="skysportsmix2">
+    <display-name lang="en">Sky Sports Mix HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BoxNation">
+    <display-name lang="en">Box Nation</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Sports 1 HD">
+    <display-name lang="en">Sky Sports 1 HD</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Sky Sports 2 HD">
+    <display-name lang="en">Sky Sports 2 HD</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Sky Sports 3 HD">
+    <display-name lang="en">Sky Sports 3 HD</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Sky Sports 4 HD">
+    <display-name lang="en">Sky Sports 4 HD</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Sky Sports 5 HD">
+    <display-name lang="en">Sky Sports 5 HD</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Sky Sports F1 HD">
+    <display-name lang="en">Sky Sports F1 HD</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Sky Sports News HD">
+    <display-name lang="en">Sky Sports News HD</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="skysportsmix1">
+    <display-name lang="en">Sky Sports Mix HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Box Nation HD">
+    <display-name lang="en">Box Nation HD</display-name>
+  </channel>
+  <channel id="BT Sport 1">
+    <display-name lang="en">BT Sport 1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport 2">
+    <display-name lang="en">BT Sport 2</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport Europe">
+    <display-name lang="en">BT Sport Europe</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport\/\/ESPN">
+    <display-name lang="en">BT Sport ESPN</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="British Eurosport">
+    <display-name lang="en">Eurosport</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="British Eurosport 2">
+    <display-name lang="en">Eurosport 2</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Setanta Ireland">
+    <display-name lang="en">Setanta Ireland</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Setanta Sports 1">
+    <display-name lang="en">Setanta Sports 1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="at the races">
+    <display-name lang="en">At The Races</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Racing UK">
+    <display-name lang="en">Racing UK</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Motors TV">
+    <display-name lang="en">Motors TV</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="en">ESPN</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Celtic TV">
+    <display-name lang="en">Celtic TV</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Rangers">
+    <display-name lang="en">Rangers</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="MUTV">
+    <display-name lang="en">MUTV</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Liverpool FC TV">
+    <display-name lang="en">lfctv</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Chelsea TV">
+    <display-name lang="en">Chelsea TV</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="mioStadium 102 (HD)">
+    <display-name lang="en">MIO 102 Sports</display-name>
+    <url>http://www.starhubgo.com</url>
+  </channel>
+  <channel id="mioStadium 103 (HD)">
+    <display-name lang="en">MIO 103 Sports</display-name>
+    <url>http://www.starhubgo.com</url>
+  </channel>
+  <channel id="mioStadium 104 (HD)">
+    <display-name lang="en">MIO 104 Sports</display-name>
+    <url>http://www.starhubgo.com</url>
+  </channel>
+  <channel id="mioStadium 105 (HD)">
+    <display-name lang="en">MIO 105 Sports</display-name>
+    <url>http://www.starhubgo.com</url>
+  </channel>
+  <channel id="mioStadium 106 (HD)">
+    <display-name lang="en">MIO 106 Sports</display-name>
+    <url>http://www.starhubgo.com</url>
+  </channel>
+  <channel id="WABC (ABC)">
+    <display-name lang="en">ABC New York</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="ABC ustv">
+    <display-name lang="en">ABC USTV</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="WCBS HDTV (CBS)">
+    <display-name lang="en">CBS New York</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="CBS ustv">
+    <display-name lang="en">CBS</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="WNBC (NBC)">
+    <display-name lang="en">NBC New York</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="WTVJ HDTV">
+    <display-name lang="en">NBC Miami</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="KNBC (NBC)">
+    <display-name lang="en">NBC</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="WNYW HDTV (FOX)">
+    <display-name lang="en">Fox New York</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="WSVN HDTV">
+    <display-name lang="en">Fox Miami</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="KTTV (FOX)">
+    <display-name lang="en">Fox USTV</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="PBS">
+    <display-name lang="en">PBS</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="My9">
+    <display-name lang="en">My9</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="CW">
+    <display-name lang="en">CW</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="KTLA">
+    <display-name lang="en">KTLA</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="WPIX">
+    <display-name lang="en">WPIX</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="ION Television (ION E)">
+    <display-name lang="en">ION</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="AMC (amc)">
+    <display-name lang="en">AMC</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="BBC America (BBCA)">
+    <display-name lang="en">BBC America</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="BBC Entertainment">
+    <display-name lang="en">BBC Entertainment</display-name>
+  </channel>
+  <channel id="Womens Entertainment (We)">
+    <display-name lang="en">WE tv</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="TBS HD (TBSHD)">
+    <display-name lang="en">TBS</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="USA Network (USA)">
+    <display-name lang="en">USA Network</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Lifetime (LIFE)">
+    <display-name lang="en">Lifetime</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Oxygen (OXGN)">
+    <display-name lang="en">Oxygen</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="FX (FX channel)">
+    <display-name lang="en">FX</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="FXX (FXX)">
+    <display-name lang="en">FXX</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="TNT (TNT)">
+    <display-name lang="en">TNT</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="WGN America HD (WGNHD)">
+    <display-name lang="en">WGN America</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="IFC (IFC)">
+    <display-name lang="en">IFC</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Ovation (OVTV)">
+    <display-name lang="en">Ovation</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Spike HD (SpikeHD)">
+    <display-name lang="en">Spike US</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="truTV HD (truTVHD)">
+    <display-name lang="en">truTV</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="E! (E!)">
+    <display-name lang="en">E! entertainment</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="TV Land HD (TVLDHD)">
+    <display-name lang="en">TV Land</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="TLC (TLC)">
+    <display-name lang="en">TLC USA</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Bravo (BRVO)">
+    <display-name lang="en">Bravo</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Syfy Channel (Syfy)">
+    <display-name lang="en">Syfy</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="A E (AE)">
+    <display-name lang="en">A and E</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Hallmark (HALL)">
+    <display-name lang="en">Hallmark Channel</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Hallmark Movies  Mysteries (HMMHD)">
+    <display-name lang="en">Hallmark Movie Channel</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Chiller (CHLL)">
+    <display-name lang="en">Chiller</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Freeform (FRFM)">
+    <display-name lang="en">ABC Family</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Discovery Family Channel (DFCH)">
+    <display-name lang="en">Discovery Family</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Comedy Central (COM)">
+    <display-name lang="en">Comedy Central US</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="BET (BET)">
+    <display-name lang="en">BET</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="AXS TV (AXSTV)">
+    <display-name lang="en">AXS</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Palladia (PLDAHD)">
+    <display-name lang="en">PALLADIA</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="MSNBC HD (mnbcHD)">
+    <display-name lang="en">MSNBC</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="American Heroes (AHCH)">
+    <display-name lang="en">American Heroes Channel</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Destination America (DEST)">
+    <display-name lang="en">Destination America</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Food Network (Food)">
+    <display-name lang="en">Food Network USA</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Cooking Channel (COOK)">
+    <display-name lang="en">Cook</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="HGTV (HGTV)">
+    <display-name lang="en">HGTV</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Do It Yourself Network (DIY)">
+    <display-name lang="en">DIY</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Discovery (DSC)">
+    <display-name lang="en">Discovery</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="National Geographic TV (NGC)">
+    <display-name lang="en">National Geographic Channel</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Science Channel (SCI)">
+    <display-name lang="en">Science Channel</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="History Channel (HIST)">
+    <display-name lang="en">History US</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="H2 (H21)">
+    <display-name lang="en">H2USA</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Animal Planet (APL)">
+    <display-name lang="en">Animal Planet US</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Nat Geo WILD (NGW)">
+    <display-name lang="en">Nat Geo WILD USA</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Investigation Discovery (ID)">
+    <display-name lang="en">ID US</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Crime Investigation HD (CIHD)">
+    <display-name lang="en">Crime and Investigation Network</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="NASA TV (NASA)">
+    <display-name lang="en">NASA TV</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Turner Classic Movies (TCM)">
+    <display-name lang="en">TCM US</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Encore (ENCe)">
+    <display-name lang="en">Encore</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Starz Encore Action (SEAC)">
+    <display-name lang="en">Encore Action</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Starz Encore Westerns (SEWS)">
+    <display-name lang="en">Encore Westerns (East)(ENCWS)</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="HBO East (HBOe)">
+    <display-name lang="en">HBO East</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="HBO 2 East (HB2e)">
+    <display-name lang="en">HBO 2 East</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="HBO Signature (HBOS)">
+    <display-name lang="en">HBO Signature</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="HBO West (HBOw)">
+    <display-name lang="en">HBO West</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="HBO 2 West (HB2w)">
+    <display-name lang="en">HBO 2 West</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="HBO Family East (HBFe)">
+    <display-name lang="en">HBO Family</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="HBO Comedy HD East (HBOCHD)">
+    <display-name lang="en">HBO Comedy East</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="HBO Zone HD (HBOZHD)">
+    <display-name lang="en">HBO Zone</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Showtime HD East (SHOeHD)">
+    <display-name lang="en">Showtime</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Showtime HD West (SHOwHD)">
+    <display-name lang="en">Showtime West</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Showtime Showcase (SHO3)">
+    <display-name lang="en">Showtime Showcase</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Showtime Extreme (EXTR)">
+    <display-name lang="en">Showtime Extreme</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Showtime Beyond HD (SHBYHD)">
+    <display-name lang="en">Showtime Beyond</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Showtime Next HD (SHNXHD)">
+    <display-name lang="en">Showtime Next</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Lifetime Movie Network (LMN)">
+    <display-name lang="en">Lifetime Movie Network (LMN)</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Starz East (STRZ)">
+    <display-name lang="en">Starz East</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Starz West (STZw)">
+    <display-name lang="en">Starz West</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Starz Edge (STZE)">
+    <display-name lang="en">Starz EdgeEast</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Starz Cinema HD (STZCIHD)">
+    <display-name lang="en">Starz Cinema East</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Starz in Black (STZB)">
+    <display-name lang="en">Starz in Black East</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Starz Kids Family HD (STZKHD)">
+    <display-name lang="en">Starz kids Family East</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Starz Comedy HD (STZCHD)">
+    <display-name lang="en">Starz Comedy HD East</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Sony Movie Channel HD (SONYHD)">
+    <display-name lang="en">Sony Movie Channel</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Cinemax (MAXe)">
+    <display-name lang="en">CineMAX East</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Cinemax West (MAXw)">
+    <display-name lang="en">CineMAX West</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="ActionMax HD East (AMAXHD)">
+    <display-name lang="en">ActionMAX</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Cinemax ThrillerMax HD (TMAXHD)">
+    <display-name lang="en">ThrillerMAX</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Cinemax 5 StarMAX HD East (5MAXHD)">
+    <display-name lang="en">5 StarMAX</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="MoreMax (MMAX)">
+    <display-name lang="en">MoreMAX</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="The Movie Channel East (TMCe)">
+    <display-name lang="en">The Movie Channel</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="The Movie Channel Xtra HD (TMCXHD)">
+    <display-name lang="en">The Movie Channel Extra</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="MTV Live (MTVLV)">
+    <display-name lang="en">MTV Live</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Concert Channel">
+    <display-name lang="es">Concert Channel</display-name>
+    <icon src="http://x.cdn.entutele.com/media/channels/big/concert-channel.gif" />
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Vevo Nashville">
+    <display-name lang="en">Vevo Nashville</display-name>
+  </channel>
+  <channel id="Vevo Flow Hip-Hop and R+B ">
+    <display-name lang="en">Vevo Flow</display-name>
+  </channel>
+  <channel id="Vevo Hits">
+    <display-name lang="en">Vevo Hits</display-name>
+  </channel>
+  <channel id="Disney Channel (East) (DISe)">
+    <display-name lang="en">Disney Channel East</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Disney XD (DXD)">
+    <display-name lang="en">Disney XD US</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Disney Junior (DSJR)">
+    <display-name lang="en">Disney Junior US</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Boomerang (Boom)">
+    <display-name lang="en">BoomerangUS</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Nickelodeon East (NIKe)">
+    <display-name lang="en">Nickelodeon East</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Nick Jr. (NKJR)">
+    <display-name lang="en">NickJr US</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Teen Nick (TNCK)">
+    <display-name lang="en">Nick Teen</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Cartoon Network US">
+    <display-name lang="en">Cartoon Network USA</display-name>
+  </channel>
+  <channel id="BBC World News HD (BBCWHD)">
+    <display-name lang="en">BBC World News</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="CNN (CNN)">
+    <display-name lang="en">CNN</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Bloomberg Television (BTV)">
+    <display-name lang="en">Bloomberg USA</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="CNBC (CNBC)">
+    <display-name lang="en">CNBC</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="FOX News Channel (FNC)">
+    <display-name lang="en">FOX News</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Fox Business Network (FBN)">
+    <display-name lang="en">Fox Business</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="The Weather Channel (WEA)">
+    <display-name lang="en">The Weather Channel</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="ABC News">
+    <display-name lang="en">ABC</display-name>
+	<url>http://www.directv.com</url>
+  </channel>
+  <channel id="CHAN">
+    <display-name lang="en">Global TV Vancouver HD</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="CIII (Hull-Ottawa) HD">
+    <display-name lang="en">Global TV Toronto HD</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="CKMI (Montréal)">
+    <display-name lang="en">Global Mon</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="Global TV Halifax HD">
+    <display-name lang="en">Global TV Halifax HD</display-name>
+	<url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="CFRN CTV Edmonton">
+    <display-name lang="en">CFRN CTV Edmonton</display-name>
+    <icon src="http://static.filmon.com/couch/channels/2053/big_logo.png" />
+    <url>http://www.filmon.com</url>
+  </channel>
+  <channel id="CKCK CTV Regina">
+    <display-name lang="en">CKCK CTV Regina</display-name>
+	<url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="CFCN-5 CTV Lethbridge">
+    <display-name lang="en">CFCN CTV Calgary (Lethbridge)</display-name>
+    <icon src="http://static.filmon.com/couch/channels/2059/big_logo.png" />
+    <url>http://www.filmon.com</url>
+  </channel>
+  <channel id="CICC CTV Yorkton">
+    <display-name lang="en">CICC CTV Yorkton</display-name>
+    <icon src="http://static.filmon.com/couch/channels/2062/big_logo.png" />
+    <url>http://www.filmon.com</url>
+  </channel>
+  <channel id="CFCF HD">
+    <display-name lang="en">CTV Canada</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="CBC News Network HD">
+    <display-name lang="en">CBC News</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="CBMT">
+    <display-name lang="en">CBC</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="CHCH">
+    <display-name lang="en">CHCH</display-name>
+	<url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="Slice">
+    <display-name lang="en">Slice</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="en">HGTV Canada</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="CITY">
+    <display-name lang="en">City Toronto</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="CJNT (Metro 14)">
+    <display-name lang="en">CityTV</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="CP24">
+    <display-name lang="en">CP24</display-name>
+  </channel>
+  <channel id="TSN1 HD">
+    <display-name lang="en">TSN 1</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="TSN2 HD">
+    <display-name lang="en">TSN 2</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="TSN3 HD">
+    <display-name lang="en">TSN 3</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="TSN4 HD">
+    <display-name lang="en">TSN 4</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="TSN HD">
+    <display-name lang="en">TSN 5</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="NBC Sports Network HD (NBCSHD)">
+    <display-name lang="en">NBCSN</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Golf Channel (Golf)">
+    <display-name lang="en">The Golf Channel</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Ultimate Events Sports">
+    <display-name lang="en">Ultimate Events Sports</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ESPN (ESPN)">
+    <display-name lang="en">ESPN USA</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="ESPNU (ESPNU)">
+    <display-name lang="en">ESPNU</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="ESPNews (ESN)">
+    <display-name lang="en">ESPNews</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="ESPN2 (ESPN2)">
+    <display-name lang="en">ESPN2</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Astro SuperSport">
+    <display-name lang="en">Astro SuperSport</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro SuperSport 2">
+    <display-name lang="en">Astro SuperSport 2</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro SuperSport 3">
+    <display-name lang="en">Astro SuperSport 3</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MAVTV">
+    <display-name lang="en">MAVTV</display-name>
+  </channel>
+  <channel id="FOX Sports 1 (FS1)">
+    <display-name lang="en">FOX Sports 1</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="FOX Sports 2 HD (FS2HD)">
+    <display-name lang="en">Fox Sports 2</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Comcast">
+    <display-name lang="en">Comcast</display-name>
+  </channel>
+  <channel id="Fox Florida">
+    <display-name lang="en">Fox Florida</display-name>
+  </channel>
+  <channel id="Fox South">
+    <display-name lang="en">Fox South</display-name>
+  </channel>
+  <channel id="Fox Prime">
+    <display-name lang="en">Fox Prime</display-name>
+  </channel>
+  <channel id="Time Warner">
+    <display-name lang="en">Time Warner</display-name>
+  </channel>
+  <channel id="CBS Sports Network (CBS SN)">
+    <display-name lang="en">CBS Sports Network</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Arena Sport 1">
+    <display-name lang="hr">Arenasport 1</display-name>
+    <url>http://www.port.hr</url>
+  </channel>
+  <channel id="Arena Sport 2">
+    <display-name lang="hr">Arenasport 2</display-name>
+    <url>http://www.port.hr</url>
+  </channel>
+  <channel id="Arena Sport 3">
+    <display-name lang="hr">Arenasport 3</display-name>
+    <url>http://www.port.hr</url>
+  </channel>
+  <channel id="Arena Sport 4">
+    <display-name lang="hr">Arenasport 4</display-name>
+    <url>http://www.port.hr</url>
+  </channel>
+  <channel id="Sport Klub 1">
+    <display-name lang="en">Sport Klub 1</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Sport Klub 2">
+    <display-name lang="en">Sport Klub 2</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Sport Klub 3">
+    <display-name lang="en">Sport Klub 3</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Big Ten Network HD 610 (BTNHD)">
+    <display-name lang="en">Big Ten Network</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="MLB Network (MLB Net)">
+    <display-name lang="en">MLB Network</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="NHL Network HD (NHL HD)">
+    <display-name lang="en">NHL Network</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="NFL Network (NFL)">
+    <display-name lang="en">NFL Network</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="NBA TV (NBA)">
+    <display-name lang="en">NBA TV</display-name>
+    <url>http://www.directv.com</url>
+  </channel>
+  <channel id="Canal UFC Network Latinoamérica">
+    <display-name lang="es">UFC Network</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ufc_network_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Premier Sports">
+    <display-name lang="en">Premier Sports HD</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="WWE Network HD">
+    <display-name lang="en">WWE Network HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Tennis Channel (TENNIS)">
+    <display-name lang="en">The Tennis Channel</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Sports Net One">
+    <display-name lang="en">Sports Net One</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="Sportsnet World">
+    <display-name lang="en">Sportsnet World HD</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="Sports Net Ontario">
+    <display-name lang="en">Sports Net Ontario</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="The Score">
+    <display-name lang="en">Sportsnet 360 HD</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="AD Sports 1 (UAE)">
+    <display-name lang="en">AD Sports 1 (UAE)</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="AD Sports 2 (UAE)">
+    <display-name lang="en">AD Sports 2 (UAE)</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="beIN Sports HDTV (English) (BEIN)">
+    <display-name lang="en">beIN Sports</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Madison Square Garden HDTV">
+    <display-name lang="en">MSG</display-name>
+    <url>http://www.yo.tv</url>
+  </channel>
+  <channel id="Fight Network">
+    <display-name lang="en">Fight Network</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="Australia Plus Television">
+    <display-name lang="zh">Australia Plus Television</display-name>
+    <url>http://www.nowtv.now.com</url>
+  </channel>
+  <channel id="MLB Extra Innings 1">
+    <display-name lang="en">MLB Extra Innings 1</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="MLB Extra Innings 2">
+    <display-name lang="en">MLB Extra Innings 2</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="MLB Extra Innings 3">
+    <display-name lang="en">MLB Extra Innings 3</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="MLB Extra Innings 4">
+    <display-name lang="en">MLB Extra Innings 4</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="MLB Extra Innings 5">
+    <display-name lang="en">MLB Extra Innings 5</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="MLB Extra Innings 6">
+    <display-name lang="en">MLB Extra Innings 6</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="MLB Extra Innings 7">
+    <display-name lang="en">MLB Extra Innings 7</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NBA League Pass 1">
+    <display-name lang="en">NBA League Pass 1</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NBA League Pass 2">
+    <display-name lang="en">NBA League Pass 2</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NBA League Pass 3">
+    <display-name lang="en">NBA League Pass 3</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NBA League Pass 4">
+    <display-name lang="en">NBA League Pass 4</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NBA League Pass 5">
+    <display-name lang="en">NBA League Pass 5</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NBA League Pass 6">
+    <display-name lang="en">NBA League Pass 6</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NHL Centre Ice 1">
+    <display-name lang="en">NHL Centre Ice 1</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NHL Centre Ice 2">
+    <display-name lang="en">NHL Centre Ice 2</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NHL Centre Ice 3">
+    <display-name lang="en">NHL Centre Ice 3</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NHL Centre Ice 4">
+    <display-name lang="en">NHL Centre Ice 4</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NHL Centre Ice 5">
+    <display-name lang="en">NHL Centre Ice 5</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NHL Centre Ice 6">
+    <display-name lang="en">NHL Centre Ice 6</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NFL Network 1">
+    <display-name lang="en">NFL Network 1</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NFL Network 2">
+    <display-name lang="en">NFL Network 2</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NFL Network 3">
+    <display-name lang="en">NFL Network 3</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NFL Network 4">
+    <display-name lang="en">NFL Network 4</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NFL Network 5">
+    <display-name lang="en">NFL Network 5</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NFL Network 6">
+    <display-name lang="en">NFL Network 6</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NFL Network 7">
+    <display-name lang="en">NFL Network 7</display-name>
+	<url>http://www.tvpassport.com</url>
+  </channel>
+
+    BBC One
+    
+    http://www.tvguide.co.uk
+  
+  
+    BBC Two
+    
+    http://www.tvguide.co.uk
+  
+  
+    ITV1
+    
+    http://www.tvguide.co.uk
+  
+  
+    Channel 4
+    
+    http://www.tvguide.co.uk
+  
+  
+    Channel 5
+    
+    http://www.tv.sky.com
+  
+  
+    ITV2
+    
+    http://www.tvguide.co.uk
+  
+  
+    ITV3
+    
+    http://www.tvguide.co.uk
+  
+  
+    ITV4
+    
+    http://www.tvguide.co.uk
+  
+  
+    ITV1 +1
+    
+    http://www.tvguide.co.uk
+  
+  
+    ITV2 +1
+    
+    http://www.tvguide.co.uk
+  
+  
+    ITV3 +1
+    
+    http://www.tvguide.co.uk
+  
+  
+    ITV4 +1
+    
+    http://www.tvguide.co.uk
+  
+  
+    ITV Encore
+    
+    http://www.tvguide.co.uk
+  
+  
+    ITVBe
+    
+    http://www.filmon.com
+  
+  
+    E4
+    
+    http://www.tvguide.co.uk
+  
+  
+    More4
+    
+    http://www.tvguide.co.uk
+  
+  
+    4seven
+    
+    http://www.tvguide.co.uk
+  
+  
+    5 Star
+    
+    http://www.tvguide.co.uk
+  
+  
+    5USA
+    
+    http://www.tvguide.co.uk
+  
+  
+    BBC FOUR
+    
+    http://www.tvguide.co.uk
+  
+  
+    Eden
+    
+    http://www.tvguide.co.uk
+  
+  
+    RTE One
+    http://www.entertainment.ie
+  
+  
+    RTE Two
+    http://www.entertainment.ie
+  
+  
+    RTE News Now
+    
+    http://www.tvguide.co.uk
+  
+  
+    3e
+    http://www.entertainment.ie
+  
+  
+    TV3
+    http://www.entertainment.ie
+  
+  
+    TG4
+    http://www.entertainment.ie
+  
+  
+    UTV
+    http://www.entertainment.ie
+  
+  
+    Irish TV
+    http://www.radiotimes.com
+  
+  
+    E! entertainment
+    
+    http://www.tvguide.co.uk
+  
+  
+    Pick
+    
+    http://www.tvguide.co.uk
+  
+  
+    Watch
+    
+    http://www.tvguide.co.uk
+  
+  
+    Gold
+    
+    http://www.tvguide.co.uk
+  
+  
+    Dave
+    
+    http://www.tvguide.co.uk
+  
+  
+    truTV
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky1
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky2
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Living
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Atlantic
+    
+    http://www.tvguide.co.uk
+  
+  
+    Universal Channel
+    
+    http://www.tvguide.co.uk
+  
+  
+    Spike
+    
+    http://www.tv.sky.com
+  
+  
+    Spike US
+    http://www.tv.com
+  
+  
+    Home
+    
+    http://www.tvguide.co.uk
+  
+  
+    Good Food UK
+    
+    http://www.tvguide.co.uk
+  
+  
+    Food Network
+    
+    http://www.tvguide.co.uk
+  
+  
+    VIVA
+    
+    http://www.tvguide.co.uk
+  
+  
+    Vintage TV
+    
+    http://www.tvguide.co.uk
+  
+  
+    Challenge
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Arts 1
+    
+    http://www.tvguide.co.uk
+  
+  
+    Really
+    
+    http://www.tvguide.co.uk
+  
+  
+    DMAX
+    
+    http://www.tvguide.co.uk
+  
+  
+    London Live
+    
+    http://www.tvguide.co.uk
+  
+  
+    BBC1 NI
+    
+    http://www.tvguide.co.uk
+  
+  
+    BBC1 Scotland
+    
+    http://www.tvguide.co.uk
+  
+  
+    Discovery Shed
+    
+    http://www.tvguide.co.uk
+  
+  
+    Discovery Science
+    
+    http://www.tvguide.co.uk
+  
+  
+    RT Documentary
+    
+    http://www.filmon.com
+  
+  
+    Discovery Channel
+    
+    http://www.tvguide.co.uk
+  
+  
+    National Geographic Channel HD
+    
+    http://www.tvguide.co.uk
+  
+  
+    Discovery Turbo
+    
+    http://www.tvguide.co.uk
+  
+  
+    Animal Planet
+    
+    http://www.tvguide.co.uk
+  
+  
+    Nat Geo Wild
+    
+    http://www.tvguide.co.uk
+  
+  
+    Discovery History
+    
+    http://www.tvguide.co.uk
+  
+  
+    Discovery Home and Health
+    
+    http://www.tvguide.co.uk
+  
+  
+    Velocity
+    http://www.tv.com
+  
+  
+    Travel Channel
+    
+    http://www.tvguide.co.uk
+  
+  
+    Destination America
+    http://www.tv.com
+  
+  
+    H2
+    
+    http://www.tvguide.co.uk
+  
+  
+    H2USA
+    http://www.tv.com
+  
+  
+    ID
+    
+    http://www.tvguide.co.uk
+  
+  
+    CI
+    
+    http://www.tvguide.co.uk
+  
+  
+    QUEST
+    
+    http://www.tvguide.co.uk
+  
+  
+    YESTERDAY
+    
+    http://www.tvguide.co.uk
+  
+  
+    CBS Action
+    
+    http://www.tvguide.co.uk
+  
+  
+    CBS Drama
+    
+    http://www.tvguide.co.uk
+  
+  
+    CBS Reality
+    
+    http://www.tvguide.co.uk
+  
+  
+    CBS Reality +1
+    
+    http://www.tvguide.co.uk
+  
+  
+    HISTORY
+    
+    http://www.tvguide.co.uk
+  
+  
+    Fox
+    
+    http://www.tvguide.co.uk
+  
+  
+    TLC
+    
+    http://www.tvguide.co.uk
+  
+  
+    Horror Channel
+    
+    http://www.tvguide.co.uk
+  
+  
+    Syfy
+    
+    http://www.tv.sky.com
+  
+  
+    Bravo
+    http://www.tv.com
+  
+  
+    True Drama
+    
+    http://www.tv.sky.com
+  
+  
+    True Entertainment
+    
+    http://www.tvguide.co.uk
+  
+  
+    Drama
+    
+    http://www.tvguide.co.uk
+  
+  
+    Alibi
+    
+    http://www.tvguide.co.uk
+  
+  
+    Comedy Central
+    
+    http://www.tvguide.co.uk
+  
+  
+    Nickelodeon
+    
+    http://www.tvguide.co.uk
+  
+  
+    CBBC
+    
+    http://www.tvguide.co.uk
+  
+  
+    CBeebies
+    
+    http://www.tvguide.co.uk
+  
+  
+    Disney XD
+    
+    http://www.tv.sky.com
+  
+  
+    Disney Channel
+    
+    http://www.tvguide.co.uk
+  
+  
+    Disney Junior
+    
+    http://www.tvguide.co.uk
+  
+  
+    Baby TV
+    
+    http://www.tvguide.co.uk
+  
+  
+    NickJr
+    
+    http://www.tvguide.co.uk
+  
+  
+    Cartoonito
+    
+    http://www.tvguide.co.uk
+  
+  
+    Cartoon Network
+    
+    http://www.tvguide.co.uk
+  
+  
+    CITV
+    
+    http://www.tvguide.co.uk
+  
+  
+    Boomerang
+    
+    http://www.tvguide.co.uk
+  
+  
+    Tiny Pop
+    
+    http://www.tvguide.co.uk
+  
+  
+    Nicktoons
+    
+    http://www.tvguide.co.uk
+  
+  
+    Nick Jr Too
+    
+    http://www.tv.sky.com
+  
+  
+    4Music
+    
+    http://www.tvguide.co.uk
+  
+  
+    MTV MUSIC
+    
+    http://www.tvguide.co.uk
+  
+  
+    VH1
+    
+    http://www.tvguide.co.uk
+  
+  
+    Flava
+    
+    http://www.tvguide.co.uk
+  
+  
+    Kerrang
+    
+    http://www.tvguide.co.uk
+  
+  
+    Kiss
+    
+    http://www.tvguide.co.uk
+  
+  
+    Kix
+    
+    http://www.tvguide.co.uk
+  
+  
+    Greatest Hits TV
+    
+    http://www.tv.sky.com
+  
+  
+    VH1 classic Europe
+  
+  
+    Heart TV
+    
+    http://www.tv.sky.com
+  
+  
+    Scuzz
+    http://www.radiotimes.com
+  
+  
+    Capital TV
+    
+    http://www.tv.sky.com
+  
+  
+    Channel AKA
+    
+    http://www.tv.sky.com
+  
+  
+    MTV CLASSIC
+    
+    http://www.tv.sky.com
+  
+  
+    MTV Dance
+    
+    http://www.tvguide.co.uk
+  
+  
+    MTV HITS
+    
+    http://www.tvguide.co.uk
+  
+  
+    MTV Rocks
+    
+    http://www.tvguide.co.uk
+  
+  
+    MTV BASE
+    
+    http://www.tv.sky.com
+  
+  
+    Concert Channel
+    
+    http://www.entutele.com
+  
+  
+    The Box
+    
+    http://www.tvguide.co.uk
+  
+  
+    Smash Hits!
+    
+    http://www.tvguide.co.uk
+  
+  
+    Vevo Nashville
+  
+  
+    Vevo Flow
+  
+  
+    Vevo Hits
+  
+  
+    Sky Movies Premiere
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Movies Disney
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Movies Family
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Movies Action
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Movies Comedy
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Movies Thriller
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Movies Drama
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Movies Horror
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Movies Showcase
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Movies Modern Greats
+    
+    http://www.tv.sky.com
+  
+  
+    Sky Movies Select
+    
+    http://www.tvguide.co.uk
+  
+  
+    True Movies
+    
+    http://www.tv.sky.com
+  
+  
+    True Movies 2
+    
+    http://www.tvguide.co.uk
+  
+  
+    Movies 24
+    
+    http://www.tv.sky.com
+  
+  
+    Movies4Men
+    
+    http://www.tvguide.co.uk
+  
+  
+    Film4
+    
+    http://www.tvguide.co.uk
+  
+  
+    TCM
+    
+    http://www.tvguide.co.uk
+  
+  
+    Cinemax East
+    http://www.tv.com
+  
+  
+    Cinemax West
+    http://www.tv.com
+  
+  
+    ActionMAX
+    http://www.tv.com
+  
+  
+    ThrillerMAX
+    http://www.tv.com
+  
+  
+    Showtime
+    http://www.tv.com
+  
+  
+    Showtime West
+    http://www.tv.com
+  
+  
+    Showtime Showcase
+    http://www.tv.com
+  
+  
+    Showtime Extreme
+    http://www.tv.com
+  
+  
+    Showtime Beyond
+    http://www.tv.com
+  
+  
+    Showtime Next
+    http://www.tv.com
+  
+  
+    The Movie Channel
+    http://www.tv.com
+  
+  
+    The Movie Channel Extra
+    http://www.tv.com
+  
+  
+    Encore
+    http://www.tv.com
+  
+  
+    Encore Action
+    http://www.tv.com
+  
+  
+    Starz
+    http://www.tv.com
+  
+  
+    Starz West
+    http://www.tv.com
+  
+  
+    Starz EdgeEast
+    http://www.tv.com
+  
+  
+    Starz Cinema East
+    http://www.tv.com
+  
+  
+    Starz Comedy HD East
+    http://www.tv.com
+  
+  
+    Starz in Black East
+    http://www.tv.com
+  
+  
+    Starz kids Family East
+    http://www.tv.com
+  
+  
+    PALLADIA
+    http://www.tv.com
+  
+  
+    Hallmark Channel
+    http://www.tv.com
+  
+  
+    Sony Movie Channel
+    http://www.tv.com
+  
+  
+    Sky Spts News HD
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports 1 HD
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports 2 HD
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports 3 HD
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports 4 HD
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports 5 HD
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports F1 HD
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports Mix HD
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Spts News
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports 1
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports 2
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports 3
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports 4
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports 5
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports F1
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky Sports Mix
+    
+    http://www.tvguide.co.uk
+  
+  
+    BT Sport 1 HD
+    
+    http://www.tvguide.co.uk
+  
+  
+    BT Sport 2 HD
+    
+    http://www.tvguide.co.uk
+  
+  
+    BT Sport 1
+    
+    http://www.tvguide.co.uk
+  
+  
+    BT Sport 2
+    
+    http://www.tvguide.co.uk
+  
+  
+    BT Sport Europe HD
+    
+    http://www.tv.sky.com
+  
+  
+    BT Sport Europe
+    
+    http://www.tv.sky.com
+  
+  
+    The Golf Channel
+    http://www.tv.com
+  
+  
+    Setanta Ireland
+    
+    http://www.tvguide.co.uk
+  
+  
+    Setanta Sports 1
+    
+    http://www.tvguide.co.uk
+  
+  
+    At The Races
+    
+    http://www.tvguide.co.uk
+  
+  
+    Racing UK
+    
+    http://www.tvguide.co.uk
+  
+  
+    Eurosport
+    
+    http://www.tvguide.co.uk
+  
+  
+    Eurosport 2
+    
+    http://www.tvguide.co.uk
+  
+  
+    Motors TV
+    
+    http://www.tvguide.co.uk
+  
+  
+    NBCSN
+    http://www.tv.com
+  
+  
+    MUTV
+    
+    http://www.tvguide.co.uk
+  
+  
+    lfctv
+    
+    http://www.tvguide.co.uk
+  
+  
+    Chelsea TV
+    
+    http://www.tvguide.co.uk
+  
+  
+    Astro SuperSport
+    http://www.astro.com.my
+  
+  
+    Astro SuperSport 2
+    http://www.astro.com.my
+  
+  
+    Astro SuperSport 3
+    http://www.astro.com.my
+  
+  
+    Astro SuperSport 4
+    http://www.astro.com.my
+  
+  
+    Arenasport 1
+    http://www.tvarenasport.com
+  
+  
+    Arenasport 2
+    http://www.tvarenasport.com
+  
+  
+    Arenasport 3
+    http://www.tvarenasport.com
+  
+  
+    Arenasport 4
+    http://www.tvarenasport.com
+  
+  
+    Arenasport 5
+    http://www.tvarenasport.com
+  
+  
+    Big Ten Network
+    http://www.tv.com
+  
+  
+    Box Nation HD
+    
+    http://www.tvguide.co.uk
+  
+  
+    Box Nation
+    
+    http://www.tvguide.co.uk
+  
+  
+    ESPN
+    
+    http://www.tvguide.co.uk
+  
+  
+    ESPN USA
+    http://www.tv.com
+  
+  
+    ESPNU
+    http://www.tv.com
+  
+  
+    ESPNEWS
+    http://www.tv.com
+  
+  
+    ESPN2
+    http://www.tv.com
+  
+  
+    TSN 1
+    http://www.tvhebdo.com
+  
+  
+    TSN 2
+    http://www.tvhebdo.com
+  
+  
+    TSN 3
+    http://www.tvhebdo.com
+  
+  
+    TSN 4
+    http://www.tvhebdo.com
+  
+  
+    TSN 5
+    http://www.tvhebdo.com
+  
+  
+    Fox Sports 1
+    http://www.tv.com
+  
+  
+    Fox Sports 2
+    http://www.tv.com
+  
+  
+    MLB Network
+    http://www.tv.com
+  
+  
+    NHL Network
+    http://www.tv.com
+  
+  
+    NFL Network
+    http://www.tv.com
+  
+  
+    NBA TV
+    http://www.tv.com
+  
+  
+    UFC Network
+    http://www.mi.tv
+  
+  
+    WWE Network HD
+    http://www.astro.com.my
+  
+  
+    Sports Net One
+    http://www.tvhebdo.com
+  
+  
+    Sportsnet World HD
+    http://www.tvhebdo.com
+  
+  
+    Sports Net World
+    http://www.tvhebdo.com
+  
+  
+    Sports Net Ontario
+    http://www.tvhebdo.com
+  
+  
+    Sportsnet 360 HD
+    http://www.tvhebdo.com
+  
+  
+    CBS Sports Network
+    http://www.tv.com
+  
+  
+    bein-sports-1hd
+    http://www.bein.net
+  
+  
+    bein-sports-2hd
+    http://www.bein.net
+  
+  
+    bein-sports-3hd
+    http://www.bein.net
+  
+  
+    bein-sports-4hd
+    http://www.bein.net
+  
+  
+    bein-sports-5hd
+    http://www.bein.net
+  
+  
+    bein-sports-6hd
+    http://www.bein.net
+  
+  
+    bein-sports-7hd
+    http://www.bein.net
+  
+  
+    bein-sports-8hd
+    http://www.bein.net
+  
+  
+    bein-sports-9hd
+    http://www.bein.net
+  
+  
+    bein-sports-10hd
+    http://www.bein.net
+  
+  
+    bein-sports-11hd
+    http://www.bein.net
+  
+  
+    bein-sports-12hd
+    http://www.bein.net
+  
+  
+    bein-sports-13hd
+    http://www.bein.net
+  
+  
+    bein-sports-14hd
+    http://www.bein.net
+  
+  
+    bein-sports-15hd
+    http://www.bein.net
+  
+  
+    bein-sports-16hd
+    http://www.bein.net
+  
+  
+    MIO 102 Sports
+    http://www.starhubgo.com
+  
+  
+    MIO 103 Sports
+    http://www.starhubgo.com
+  
+  
+    MIO 104 Sports
+    http://www.starhubgo.com
+  
+  
+    MIO 105 Sports
+    http://www.starhubgo.com
+  
+  
+    MIO 106 Sports
+    http://www.starhubgo.com
+  
+  
+    CNN
+    http://www.tv.com
+  
+  
+    Bloomberg
+    
+    http://www.tvguide.co.uk
+  
+  
+    Al Jazeera Eng
+    
+    http://www.tvguide.co.uk
+  
+  
+    FOX News
+    
+    http://www.filmon.com
+  
+  
+    EuroNews
+    
+    http://www.tvguide.co.uk
+  
+  
+    Sky News
+    
+    http://www.tvguide.co.uk
+  
+  
+    CNBC
+    http://www.tv.com
+  
+  
+    MSNBC
+    http://www.tv.com
+  
+  
+    RT
+    
+    http://www.tvguide.co.uk
+  
+  
+    BBC World News
+    http://www.tv.com
+  
+  
+    BBC News
+    
+    http://www.tvguide.co.uk
+  
+  
+    France 24
+    
+    http://www.filmon.com
+  
+  
+    The Weather Channel
+    http://www.tv.com
+  
+  
+    NHK World
+    
+    http://www.tvguide.co.uk
+  
+  
+    Arirang TV
+    
+    http://www.filmon.com
+  
+  
+    Bloomberg USA
+    http://www.tv.com
+  
+  
+    Fox Business
+    http://www.tv.com
+  
+  
+    CNBC World
+    http://www.tv.com
+  
+  
+    AMC
+    http://www.tv.com
+  
+  
+    TCM US
+    http://www.tv.com
+  
+  
+    IFC
+    http://www.tv.com
+  
+  
+    TBS
+    http://www.tv.com
+  
+  
+    USA Network
+    http://www.tv.com
+  
+  
+    Lifetime
+    http://www.tv.com
+  
+  
+    ABC
+    http://www.tv.com
+  
+  
+    CBS New York
+    http://www.tv.com
+  
+  
+    Fox New York
+    http://www.tv.com
+  
+  
+    NBC New York
+    http://www.tv.com
+  
+  
+    ABC Miami
+    http://www.tvguide.com
+  
+  
+    NBC Miami
+    http://www.tvguide.com
+  
+  
+    Fox Miami
+    http://www.tvguide.com
+  
+  
+    Food Network USA
+    http://www.tv.com
+  
+  
+    DIY
+    http://www.tvhebdo.com
+  
+  
+    A and E
+    http://www.tv.com
+  
+  
+    Oxygen
+    http://www.tv.com
+  
+  
+    BBC America
+    http://www.tv.com
+  
+  
+    FX
+    http://www.tv.com
+  
+  
+    TNT
+    http://www.tv.com
+  
+  
+    Deutsche Welle
+    http://www.tvhebdo.com
+  
+  
+    WGN America
+    http://www.tv.com
+  
+  
+    FXX
+    http://www.tv.com
+  
+  
+    Ovation
+    http://www.tv.com
+  
+  
+    Crime and Investigation Network 
+    http://www.tv.com
+  
+  
+    HBO East
+    http://www.tv.com
+  
+  
+    HBO 2 East
+    http://www.tv.com
+  
+  
+    HBO Signature
+    http://www.tv.com
+  
+  
+    HBO Signature
+    http://www.tv.com
+  
+  
+    HBO West
+    http://www.tv.com
+  
+  
+    HBO 2 West
+    http://www.tv.com
+  
+  
+    HBO Comedy
+    http://www.tv.com
+  
+  
+    HBO Family
+    http://www.tv.com
+  
+  
+    HBO Zone
+    http://www.tv.com
+  
+  
+    MSG
+    http://www.tv.com
+  
+  
+    PAC-12 Network
+    http://www.tvguide.com
+  
+  
+    PAC-12 Arizona
+    http://www.tvguide.com
+  
+  
+    PAC-12 Mountain
+    http://www.tvguide.com
+  
+  
+    PAC-12 Bay Area
+    http://www.tvguide.com
+  
+  
+    PAC-12 Oregon
+    http://www.tvguide.com
+  
+  
+    PAC-12 Washington
+    http://www.tvguide.com
+  
+  
+    PAC-12 Los Angeles
+    http://www.tvguide.com
+  
+  
+    NHL Center Ice 1
+    http://www.directv.com
+  
+  
+    NHL Center Ice 2
+    http://www.directv.com
+  
+  
+    NHL Center Ice 3
+    http://www.directv.com
+  
+  
+    NHL Center Ice 4
+    http://www.directv.com
+  
+  
+    NHL Center Ice 5
+    http://www.directv.com
+  
+  
+    NHL Center Ice 6
+    http://www.directv.com
+  
+  
+    NHL Center Ice 7
+    http://www.directv.com
+  
+  
+    NHL Center Ice 8
+    http://www.directv.com
+  
+  
+    NHL Center Ice 9
+    http://www.directv.com
+  
+  
+    NHL Center Ice 10
+    http://www.directv.com
+	
+	A&E (US)
+    
+    http://www.tvpassport.com
+  
+  
+    ABC (US)
+    
+    http://www.tvpassport.com
+  
+  
+    ABC Spark (US)
+    
+    http://www.tvpassport.com
+  
+  
+    AMC (US)
+    
+    http://www.tvpassport.com
+  
+  
+    AMG TV (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Animal Planet (US)
+    
+    http://www.tvpassport.com
+  
+  
+    BBC America (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Bounce TV (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Bravo (US)
+    
+    http://www.tvpassport.com
+  
+  
+    CBS (US)
+    
+    http://www.tvpassport.com
+  
+  
+    CBS (WCAX) Burlington (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Cinemax (US)
+    
+    http://www.tvpassport.com
+  
+  
+    CMT (US)
+    
+    http://www.tvpassport.com
+  
+  
+    CNBC (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Cooking Channel (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Comedy Central (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Comet TV (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Cottage Life (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Create TV (US)
+    
+    http://www.tvpassport.com
+  
+  
+    CW (US)
+    
+    http://www.tvpassport.com
+  
+  
+    DIY (US)
+    
+    http://www.tvpassport.com
+  
+  
+    E! Entertainment (US)
+    
+    http://www.tvpassport.com
+  
+  
+    El Rey Network (US)
+    http://www.zap2it.com
+  
+  
+    Food Network (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Fox 43 (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Freeform (US)
+    
+    http://www.tvpassport.com
+  
+  
+    FX (US)
+    
+    http://www.tvpassport.com
+  
+  
+    FXX (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Game Show Network (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Hallmark Channel (US)
+    
+    http://www.tvpassport.com
+  
+  
+    HBO East (US)
+    
+    http://www.tvpassport.com
+  
+  
+    HGTV (US)
+    
+    http://www.tvpassport.com
+  
+  
+    History (US)
+    
+    http://www.tvpassport.com
+  
+  
+    HSN (US)
+    
+    http://www.tvpassport.com
+  
+  
+    IFC (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Investigation Discovery (US)
+    
+    http://www.tvpassport.com
+  
+  
+    KTLA 5 (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Lifetime (US)
+    
+    http://www.tvpassport.com
+  
+  
+    LMN(US)
+    
+    http://www.tvpassport.com
+  
+  
+    Me TV (US)
+    
+    http://www.tvpassport.com
+  
+  
+    MTV 2 (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Nat Geo (US)
+    
+    http://www.tvpassport.com
+  
+  
+    NBC (US)
+    
+    http://www.tvpassport.com
+  
+  
+    OWN (US)
+    
+    http://www.tvpassport.com
+  
+  
+    PBS (US)
+    
+    http://www.tvpassport.com
+  
+  
+    QVC (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Showtime East (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Spike TV (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Starz East (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Syfy (US)
+    
+    http://www.tvpassport.com
+  
+  
+    TNT (US)
+    
+    http://www.tvpassport.com
+  
+  
+    TBS (US)
+    
+    http://www.tvpassport.com
+  
+  
+    The Discovery Channel (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Travel Channel (US)
+    
+    http://www.tvpassport.com
+  
+  
+    truTV (US)
+    
+    http://www.tvpassport.com
+  
+  
+    TV Land (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Universal (US)
+    
+    http://www.tvpassport.com
+  
+  
+    USA Network (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Velocity (US)
+    
+    http://www.tvpassport.com
+  
+  
+    VH1 (US)
+    
+    http://www.tvpassport.com
+  
+  
+    World Channel (US)
+    
+    http://www.tvpassport.com
+  
+  
+    4seven (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    5 USA (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Animal Planet (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    BBC Alba (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    BBC One (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    BBC Two (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    BBC Three (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    BBC Four (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    BET (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Bike Channel (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    CBS Action (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    CBS Drama (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    CBS Reality (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Channel 4 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Channel 5 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Comedy Central (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Crime and Investigation (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Dave (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Discovery (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Discovery History (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Discovery Science (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Discovery Shed (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Discovery Turbo (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    DMAX (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Drama (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    E! Entertainment (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    E! Entertainment Europe (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Eden (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Film4 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Food Network (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Fox (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Gold (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Good Food (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    History 2 H2 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Horror Channel (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    ITV1 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    ITV2 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    ITV3 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    ITV4 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    ITVBe (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Lifetime (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    MTV (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    MTV Classic (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    MTV Live (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Nat Geo (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Nat Geo Wild (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Quest TV (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    RTE One (IE)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    RTE Two (IE)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky1 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky2 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky Arts (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky Atlantic (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky Living (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky Movies Action and Adventure (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    Sky Movies Comedy (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    Sky Movies Crime and Thriller (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    Sky Movies Disney (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    Sky Movies Drama and Romance (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    Sky Movies Family (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    Sky Movies Greats (UK)
+    http://www.virginmedia.com
+  
+  
+    Sky Movies Showcase (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    Sky Movies Sci-Fi and Horror (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    Sky Movies Premiere (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    Sky Movies Select (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    Syfy (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    TCM (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    TLC (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Travel Channel (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    True Movies 1 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    True Movies 2 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Universal (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Viceland (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    W (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Arena Sport 1 (CS)
+    http://www.mts.rs
+  
+  
+    Astro SuperSport 1 (MY)
+    http://www.astro.com.my
+  
+  
+    Astro SuperSport 2 (MY)
+    http://www.astro.com.my
+  
+  
+    Astro SuperSport 3 (MY)
+    http://www.astro.com.my
+  
+  
+    Astro SuperSport 4 (MY)
+    http://www.astro.com.my
+  
+  
+    At The Races (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    beINSport 1 (AR)
+    http://www.bein.net
+  
+  
+    beINSport 2 (AR)
+    http://www.bein.net
+  
+  
+    beINSport 3 (AR)
+    http://www.bein.net
+  
+  
+    beINSport 4 (AR)
+    http://www.bein.net
+  
+  
+    beINSport 5 (AR)
+    http://www.bein.net
+  
+  
+    beINSport 6 (AR)
+    http://www.bein.net
+  
+  
+    beINSport 7 (AR)
+    http://www.bein.net
+  
+  
+    beINSport 8 (AR)
+    http://www.bein.net
+  
+  
+    beINSport 9 (AR)
+    http://www.bein.net
+  
+  
+    beINSport 10 (AR)
+    http://www.bein.net
+  
+  
+    beINSport 11 (EN)
+    http://www.bein.net
+  
+  
+    beINSport 12 (EN)
+    http://www.bein.net
+  
+  
+    beINSport 13 (EN)
+    http://www.bein.net
+  
+  
+    beINSport 14 (FR)
+    http://www.bein.net
+  
+  
+    beINSport 15 (FR)
+    http://www.bein.net
+  
+  
+    beINSport 16 (FR)
+    http://www.bein.net
+  
+  
+    beINSport 1 (FR)
+    http://www.bein.net
+  
+  
+    beINSport 2 (FR)
+    http://www.bein.net
+  
+  
+    beINSport 3 (FR)
+    http://www.bein.net
+  
+  
+    beINSport (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    beINSport (US)
+    
+    http://www.tvpassport.com
+  
+  
+    beINSport (ES)
+    
+    http://www.tvpassport.com
+  
+  
+    Benfica TV (PT)
+    http://www.vodafone.pt
+  
+  
+    BBC Sport (UK)
+    http://www.m.tvguide.co.uk-full
+  
+  
+    BTN (US)
+    
+    http://www.tvpassport.com
+  
+  
+    BoxNation (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    BT Sport 1 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    BT Sport 2 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    BT Sport 3 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    BT Sport ESPN (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    CBS Sports Network (US)
+    
+    http://www.tvpassport.com
+  
+  
+    eir Sports 1 (IE)
+    http://www.m.tvguide.co.uk-full
+  
+  
+    eir Sports 2 (IE)
+    http://www.m.tvguide.co.uk-full
+  
+  
+    Eleven (UK)
+    http://www.singteltv.com.sg
+  
+  
+    Eleven Sports (UK)
+    http://www.singteltv.com.sg
+  
+  
+    ESPN (US)
+    
+    http://www.tvpassport.com
+  
+  
+    ESPN2 (US)
+    
+    http://www.tvpassport.com
+  
+  
+    ESPN News (US)
+    
+    http://www.tvpassport.com
+  
+  
+    ESPN U (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Eurosport 1 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Eurosport 2 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Fight Sports (US)
+    http://www.indovision.tv
+  
+  
+    Fox Sports 1 (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Fox Sports 2 (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Fox Sports 506 (AU)
+    http://www.oztivo.net
+  
+  
+    Fox Sports Asia 1 (MY)
+    http://www.tv.foxsportsasia.com
+  
+  
+    Fox Sports Asia 2 (MY)
+    http://www.tv.foxsportsasia.com
+  
+  
+    Fox Sports Asia 3 (MY)
+    http://www.tv.foxsportsasia.com
+  
+  
+    Golf Channel (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Liverpool FC TV (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Mio Stadium 102 (SG)
+    http://www.singteltv.com.sg
+  
+  
+    Mio Stadium 103 (SG)
+    http://www.singteltv.com.sg
+  
+  
+    Mio Stadium 104 (SG)
+    http://www.singteltv.com.sg
+  
+  
+    Mio Stadium 105 (SG)
+    http://www.singteltv.com.sg
+  
+  
+    Mio Stadium 106 (SG)
+    http://www.singteltv.com.sg
+  
+  
+    Mio Stadium 107 (SG)
+    http://www.singteltv.com.sg
+  
+  
+    Mio Stadium 108 (SG)
+    http://www.singteltv.com.sg
+  
+  
+    MLB Network (US)
+    
+    http://www.tvpassport.com
+  
+  
+    MUTV (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    NBA TV (US)
+    
+    http://www.tvpassport.com
+  
+  
+    NBCSN (US)
+    
+    http://www.tvpassport.com
+  
+  
+    NFL Network (US)
+    
+    http://www.tvpassport.com
+  
+  
+    NHL Network (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Pac-12 Network (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Pac-12 Arizona (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Pac-12 Los Angeles (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Pac-12 Oregon (US)
+    http://www.schedulesdirect.org
+  
+  
+    Pac-12 Bay Area (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Pac-12 Mountain (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Pac-12 Washington (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Poker Central (US)
+    http://www.pokercentral.com
+  
+  
+    Premier Sports (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Racing (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Real Madrid TV (ES)
+    http://www.elpais.com
+  
+  
+    SEC Network (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Sony Six (IN)
+    
+    http://www.tv.burrp.com
+  
+  
+    SportKlub 1 (RO)
+    
+    http://www.mojtv.net
+  
+  
+    SportKlub 2 (RO)
+    
+    http://www.mojtv.net
+  
+  
+    SportKlub 3 (RO)
+    
+    http://www.mojtv.net
+  
+  
+    Sportsnet 360 (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Sportsnet One (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Sportsnet East (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Sportsnet Pacific (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Sportsnet Ontario (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Sportsnet West (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Sportsnet World (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Sky Sports News (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky Sports 1 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky Sports 2 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky Sports 3 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky Sports 4 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky Sports 5 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky Sports Box Office (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky Sports Mix (UK)
+    
+    http://www.tv.sky.com
+  
+  
+    Sky Sports F1 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Skynet Sports 1 (MM)
+    http://www.skynetdth-sports.com
+  
+  
+    Skynet Sports 2 (MM)
+    http://www.skynetdth-sports.com
+  
+  
+    Skynet Sports 3 (MM)
+    http://www.skynetdth-sports.com
+  
+  
+    Skynet Sports 4 (MM)
+    http://www.skynetdth-sports.com
+  
+  
+    Skynet Sports 5 (MM)
+    http://www.skynetdth-sports.com
+  
+  
+    Skynet Sports 6 (MM)
+    http://www.skynetdth-sports.com
+  
+  
+    Sport TV 1 (PT)
+    
+    http://www.vodafone.pt
+  
+  
+    The Tennis Channel (US)
+    
+    http://www.tvpassport.com
+  
+  
+    TSN 1 (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    TSN 2 (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    TSN 3 (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    TSN 4 (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    TSN 5 (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Willow Cricket (US)
+    
+    http://www.tvpassport.com
+  
+  
+    WWE Network (US)
+    
+    http://www.wwe.com
+  
+  
+    BET (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    CBC (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    CHCH (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    City TV Montreal (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    City TV Toronto (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Comedy Gold (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    CP24 (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    CTV Montreal (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    CTV Toronto (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    CTV Vancouver (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    DejaView (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    E! Entertainment (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Food Network (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    FX (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Global Edmonton (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Global Montreal (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    H2 (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    HBO (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    HBO 2 (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    HIFI (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    History (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    HGTV (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    MTV (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    OLN (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Peachtree TV (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Slice (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Smithsonian Channel (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Space (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    T+E (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    TLC (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    ABC News (US)
+    http://www.foxtel.com.au
+  
+  
+    Al Jazeera English (QA)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    BBC News (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    BBC World News (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Bloomberg TV (US)
+    
+    http://www.tvpassport.com
+  
+  
+    BNN (US)
+    
+    http://www.tvpassport.com
+  
+  
+    C-Span 1 (US)
+    
+    http://www.tvpassport.com
+  
+  
+    C-Span 2 (US)
+    
+    http://www.tvpassport.com
+  
+  
+    C-Span 3 (US)
+    
+    http://www.tvpassport.com
+  
+  
+    CCTV News (CH)
+    http://www.tvpassport.com
+  
+  
+    CNN (US)
+    
+    http://www.tvpassport.com
+  
+  
+    CNN International (US)
+    
+    http://www.tvpassport.com
+  
+  
+    CP24 (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Deutsche Welle TV (US)
+    http://www.tvpassport.com
+  
+  
+    Euronews (FR)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Fox Business (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Fox News (US)
+    
+    http://www.tvpassport.com
+  
+  
+    HLN (US)
+    
+    http://www.tvpassport.com
+  
+  
+    London Live (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    MSNBC (US)
+    
+    http://www.tvpassport.com
+  
+  
+    RT (RU)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Sky News (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    The Weather Channel (US)
+    
+    http://www.tvpassport.com
+  
+  
+    WGN (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    WGN (US)
+    
+    http://www.tvpassport.com
+  
+  
+    WGN TV 9 (US)
+    http://www.tvhebdo.com
+  
+  
+    Baby TV (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Boomerang (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Cartoon Network (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Cartoon Network (US)
+    
+    http://www.tvpassport.com
+  
+  
+    CBBC (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    CBeebies (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Disney Channel (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Disney Junior (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Disney Junior (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Disney XD (CA)
+    
+    http://www.tvpassport.com
+  
+  
+    Disney XD (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Nickelodeon (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Nickelodeon (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Nick Jr (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Nick Jr +1 (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Nick Jr Too (UK)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    Nick Jr (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Nicktoons (US)
+    
+    http://www.tvpassport.com
+  
+  
+    PBS Kids (US)
+    http://www.tvpassport.com
+  
+  
+    Sprout (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Treehouse (US)
+    
+    http://www.tvpassport.com
+  
+  
+    Daystar (US)
+    
+    http://www.tvpassport.com
+  
+  
+    TBN (US)
+    
+    http://www.tvpassport.com
+  
+  
+    NASA Television (US)
+    http://www.tv.com
+  
+  
+    RT Documentary (RU)
+    
+    http://www.filmon.com
+  
+  
+    Star Plus (IN)
+    http://www.m.tvguide.co.uk-index
+  
+  
+    1
+  
+  
+    2
+  
+  
+    3
+  
+  
+    4
+  
+  
+    5
+  
+  
+    6
+  
+  
+    7
+  
+  
+    8
